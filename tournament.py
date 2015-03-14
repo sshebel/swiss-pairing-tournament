@@ -89,7 +89,7 @@ def playerStandings():
 		   where players.id=player_stats.player order by wins desc, byes asc, ties desc""")
     standings = c.fetchall()
     db.close()
-    return(standings);
+    return standings
 
 
 def reportMatch(match, player1, result):
