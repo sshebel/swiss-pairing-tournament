@@ -1,5 +1,5 @@
-Udacity Full Stack Web developer in python using a postgresql database to 
-implement a swiss pairing tournament.
+Udacity Full Stack Web developer project to implement a swiss pairing
+tournament using postgresql database and python.
 
 Requires a postgresql database and python 2.7.9
 
